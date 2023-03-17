@@ -1,6 +1,6 @@
 # React Router Assignment Project
 
-Educational project assignment to learn React and React Router v6.
+Educational project assignment to learn React and React Router v6. Most of the code here was pre-written and the assignment task was to create routes, links and a functioning search. 
 
 # Getting Started with Create React App
 
